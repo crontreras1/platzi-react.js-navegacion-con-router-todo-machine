@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/platzi-react.js-navegacion-con-router-todo-machine/static/css/main.32f272d3.css",
+    "main.js": "/platzi-react.js-navegacion-con-router-todo-machine/static/js/main.356314ce.js",
+    "index.html": "/platzi-react.js-navegacion-con-router-todo-machine/index.html",
+    "static/media/delete.svg": "/platzi-react.js-navegacion-con-router-todo-machine/static/media/delete.331149da222541bc87c25bf8d775a070.svg",
+    "static/media/edit.svg": "/platzi-react.js-navegacion-con-router-todo-machine/static/media/edit.d2bf01418b1885fe9d422b5ce8fa64f2.svg",
+    "static/media/check.svg": "/platzi-react.js-navegacion-con-router-todo-machine/static/media/check.fa4fb594b16385306a04b9c87c0feb55.svg",
+    "main.32f272d3.css.map": "/platzi-react.js-navegacion-con-router-todo-machine/static/css/main.32f272d3.css.map",
+    "main.356314ce.js.map": "/platzi-react.js-navegacion-con-router-todo-machine/static/js/main.356314ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f272d3.css",
+    "static/js/main.356314ce.js"
+  ]
+}
